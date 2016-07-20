@@ -1,0 +1,34 @@
+功能介绍:
+一个迷你定向抓取器mini_spider.py，实现对种子链接的抓取，并把URL长相符合特定pattern的网页保存到磁盘上。
+
+程序运行: 
+python mini_spider.py -c spider.conf
+
+文件结构:
+mini_spider.py：主程序
+    parseCmdLine() 解析命令参数函数
+    __main__：程序主流程
+
+crawl_thread.py: 抓取线程
+    crawl_uri() 抓取函数
+
+
+webpage_parse.py: 解析抓取的网页
+    class URIParser: 继承HTMLParser.HTMLParser类，实现对网页中url的识别
+    parse(): 实现对URIParser类的调用及结果返回处理
+
+webpage_save.py: 保存网页到磁盘
+    save(): 保存函数
+
+    
+seedfile_load.py: 读取种子文件
+    load_seedfile(): 加载种子文件函数
+
+config_load.py: 读取配置文件
+    loadconfig(): 读取配置文件函数
+
+url_table.py: 保存已抓取的url列表，用于去重
+    putURI(): 保存单一url到列表
+    putURIs(): 保存批量urls到列表
+    queryURI(): 返回单一url是否在列表中
+    queryURIs(): 返回批量urls是否在列表中

@@ -1,0 +1,54 @@
+2016-05-05 19:41:27,352 - seedfile_load - ERROR - [Errno 2] No such file or directory: './urlsa'
+2016-05-05 19:44:25,036 - seedfile_load - ERROR - 找不到该路径地址
+2016-05-05 19:44:25,036 - seedfile_load - ERROR - [Errno 2] No such file or directory: './urlsa'
+2016-05-05 20:05:09,631 - config_load - ERROR - 没有该配置项
+2016-05-05 20:56:25,993 - webpage_save - INFO - 路径已存在
+2016-05-05 20:57:13,987 - webpage_save - INFO - 路径已存在
+2016-05-05 20:58:27,367 - webpage_save - INFO - 路径已存在
+2016-05-06 16:23:23,617 - webpage_save - INFO - 路径已存在
+2016-05-06 16:23:23,648 - webpage_save - ERROR - 网页下载失败
+2016-05-06 16:23:23,651 - webpage_save - ERROR - [Errno 2] : 'aaa'
+2016-05-06 16:23:23,651 - crawl_thread - ERROR - 抓取出现错误
+2016-05-10 17:33:11,994 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-10 17:35:30,617 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-10 17:35:31,618 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html
+2016-05-10 17:35:32,618 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html
+2016-05-10 17:35:33,618 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html
+2016-05-10 17:42:31,380 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-10 17:42:32,381 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html
+2016-05-10 17:42:33,381 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html
+2016-05-10 17:42:34,382 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html
+2016-05-10 17:42:56,069 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-10 17:42:57,069 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html
+2016-05-10 17:42:58,069 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html
+2016-05-10 17:42:59,071 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html
+2016-05-10 17:45:53,930 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html/1/page1_4.html
+2016-05-10 17:45:54,930 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html/1/page1_1.html
+2016-05-10 17:45:55,931 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html/1/page1_2.html
+2016-05-10 17:45:56,933 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html/1/page1_3.html
+2016-05-10 17:45:57,950 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html/page2_1.html
+2016-05-10 17:45:58,950 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html/2/index.html
+2016-05-10 17:45:59,997 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html/3/page3_1.html
+2016-05-10 17:46:00,997 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html/3/page3_4.html
+2016-05-10 17:46:02,020 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html/page1.html
+2016-05-10 17:46:03,022 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html/page2.html
+2016-05-10 17:46:04,023 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html/page3.html
+2016-05-10 17:46:05,025 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html/mirror/index.html
+2016-05-10 17:47:30,163 - seedfile_load - ERROR - 找不到该路径地址:
+2016-05-10 17:47:30,164 - seedfile_load - ERROR - [Errno 22] invalid mode ('r') or filename: ''
+2016-05-10 17:48:53,924 - seedfile_load - ERROR - 找不到该路径地址:
+2016-05-10 17:48:53,926 - seedfile_load - ERROR - [Errno 22] invalid mode ('r') or filename: ''
+2016-05-10 18:33:10,062 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-17 10:18:53,739 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-17 10:18:54,734 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html
+2016-05-17 10:18:55,736 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html
+2016-05-17 10:18:56,736 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html
+2016-05-17 10:19:06,512 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-17 10:19:18,132 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-17 10:19:19,132 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html
+2016-05-17 10:19:20,134 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html
+2016-05-17 10:19:21,134 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html
+2016-05-17 10:22:10,516 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page1.html
+2016-05-17 10:22:11,516 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page2.html
+2016-05-17 10:22:12,517 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/page3.html
+2016-05-17 10:22:13,519 - webpage_save - INFO - 开始抓取:http://pycm.baidu.com:8081/mirror/index.html
