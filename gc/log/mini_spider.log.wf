@@ -1,0 +1,2 @@
+ERROR: 07-19 12:06:17: page_util.py:128 * 4362117120 open url http://pycm.baidu.com:8081/1/page1_4.html with urlopen but return null
+ERROR: 07-19 12:06:27: page_util.py:128 * 4362117120 open url http://pycm.baidu.com:8081/1/page1_3.html with urlopen but return null

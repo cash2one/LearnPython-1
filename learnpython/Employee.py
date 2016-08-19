@@ -7,6 +7,7 @@ class Employee:
         self.name = name
         self.salary = salary
         Employee.empCount += 1
+
     # 啥意思
     def displayCount(self):
         print "Total Employee %d" % Employee.empCount
