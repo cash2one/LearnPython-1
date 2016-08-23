@@ -9,19 +9,18 @@ def performance_pic():
 
     dp = mysql.MysqlCommon(dp_para_dict['host'], dp_para_dict['port'], dp_para_dict['user'], dp_para_dict['pwd'],
                            dp_para_dict['db'])
-
-    common_para_dict = config.get_config("../file/mysql_online.conf")
-    common = mysql.MysqlCommon(common_para_dict['host'], common_para_dict['port'], common_para_dict['user'],
-                               common_para_dict['pwd'],
-                               common_para_dict['db'])
-    categories = common.fetch_data("select id from category where parent_id<>0")
-    for category in categories:
-        sql = "select deal_id,loaddate,sum(cert_count) " \
-              "from dp_deal_detail_performance_day_v1 " \
-              "where loaddate>=20160801 and loaddate<=20160814 and category_id_2=" + str(category) + \
-              "group by loaddate,deal_id order by sum(cert_count) limit 10"
     while (True):
-        pass
+        category = input("category:")
+        sql = "select loaddate,sum(cert_count) from dp_deal_detail_performance_day_v1 where loaddate>=20160801 and loaddate<=20160814 and category_id_2=" + category + " GROUP BY loaddate ORDER BY loaddate asc"
+        results = dp.fetch_data(sql)
+        data = {}
+        for result in results:
+            data[result[0]] = data[result[1]]
+            plt.bar(result[0], result[1], color='r', width=0.2)
+        plt.xticks(np.arange(len(data)) + 0.1, data.keys())  # Translation
+        plt.yticks(data.values())
+        plt.grid(True)
+        plt.show()
 
 
 if "__main__" == __name__:
