@@ -9,7 +9,7 @@ def word():
     para_dict = config.mysql_config.get_config("../file/mysql_online.conf")
 
     mysql = db.mysql_common.MysqlCommon(para_dict['host'], para_dict['port'], para_dict['user'], para_dict['pwd'],
-                                        para_dict['db'])
+                                        para_dict['databases'])
     count = mysql.fetch_count("select count(*) from npc_poi limit 2000");
 
     es = Elasticsearch(hosts='10.94.48.41:8200')

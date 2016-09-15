@@ -2,53 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcfaaf6f-ccde-4887-a3a0-989c30297f92" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/check/check.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/mysql_config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/csdn/school.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/mysql_common.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/mysql_common.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/mysql_dp.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/file/mysql_online.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnpython/temp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mooc.python/emma.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mooc.python/lesson7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mooc.python/lexicon.dic" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/name/poi_name.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orderby/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/orderby/order_by_performance.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1540371/bin/log.py" afterPath="$PROJECT_DIR$/1540371/bin/log.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gc/spider/log.py" afterPath="$PROJECT_DIR$/gc/spider/log.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gc/test/config_load_test.py" afterPath="$PROJECT_DIR$/gc/test/config_load_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gc/test/log.txt" afterPath="$PROJECT_DIR$/gc/test/log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learnpython/Employee.py" afterPath="$PROJECT_DIR$/learnpython/Employee.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/config_load.py" afterPath="$PROJECT_DIR$/spider/config_load.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/crawl_thread.py" afterPath="$PROJECT_DIR$/spider/crawl_thread.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/log.py" afterPath="$PROJECT_DIR$/spider/log.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/log_console.py" afterPath="$PROJECT_DIR$/spider/log_console.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/mini_spider.py" afterPath="$PROJECT_DIR$/spider/mini_spider.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/seedfile_load.py" afterPath="$PROJECT_DIR$/spider/seedfile_load.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/spider.conf" afterPath="$PROJECT_DIR$/spider/spider.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/url_table.py" afterPath="$PROJECT_DIR$/spider/url_table.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/webpage_parse.py" afterPath="$PROJECT_DIR$/spider/webpage_parse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider/webpage_save.py" afterPath="$PROJECT_DIR$/spider/webpage_save.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/config_load_test.py" afterPath="$PROJECT_DIR$/spider_test/config_load_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/crawl_thread_test.py" afterPath="$PROJECT_DIR$/spider_test/crawl_thread_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/log.txt" afterPath="$PROJECT_DIR$/spider_test/log.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/seedfile_load_test.py" afterPath="$PROJECT_DIR$/spider_test/seedfile_load_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/spider.conf" afterPath="$PROJECT_DIR$/spider_test/spider.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/spider_error.conf" afterPath="$PROJECT_DIR$/spider_test/spider_error.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/test_config_load.py" afterPath="$PROJECT_DIR$/spider_test/test_config_load.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/test_crawl_thread.py" afterPath="$PROJECT_DIR$/spider_test/test_crawl_thread.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/test_seedfile_load.py" afterPath="$PROJECT_DIR$/spider_test/test_seedfile_load.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/test_url_table.py" afterPath="$PROJECT_DIR$/spider_test/test_url_table.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/test_webpage_parse.py" afterPath="$PROJECT_DIR$/spider_test/test_webpage_parse.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/test_webpage_save.py" afterPath="$PROJECT_DIR$/spider_test/test_webpage_save.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/url_table_test.py" afterPath="$PROJECT_DIR$/spider_test/url_table_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/webpage_parse_test.py" afterPath="$PROJECT_DIR$/spider_test/webpage_parse_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spider_test/webpage_save_test.py" afterPath="$PROJECT_DIR$/spider_test/webpage_save_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/testSet.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/code/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/code/ch02.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/code/ch02_movie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/code/ch04.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/data/movies.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/data/ratings.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/data/usagov_bitly_data2012-03-16-1331923249.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_analysis/data/users.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/databases/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/export/export_firm_name_address.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ml/logistic_regression.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ml/logistic_regression_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ml/nn.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ml/svm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ml/svm_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LearnPython.iml" afterPath="$PROJECT_DIR$/.idea/LearnPython.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/check/check.py" afterPath="$PROJECT_DIR$/check/check.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/name/poi_name.py" afterPath="$PROJECT_DIR$/name/poi_name.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orderby/order_by_performance.py" afterPath="$PROJECT_DIR$/orderby/order_by_performance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orderby/performance.py" afterPath="$PROJECT_DIR$/orderby/performance.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/db/__init__.py" afterPath="$PROJECT_DIR$/data/lr_data" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/db/mysql_common.py" afterPath="$PROJECT_DIR$/databases/mysql_common.py" />
     </list>
     <ignored path="LearnPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,24 +38,29 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LearnPython$http.coverage" NAME="http Coverage Results" MODIFIED="1468315448773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
-    <SUITE FILE_PATH="coverage/LearnPython$lesson6.coverage" NAME="lesson6 Coverage Results" MODIFIED="1468389688962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
-    <SUITE FILE_PATH="coverage/LearnPython$temp.coverage" NAME="temp Coverage Results" MODIFIED="1469889238507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnpython" />
-    <SUITE FILE_PATH="coverage/LearnPython$hello.coverage" NAME="hello Coverage Results" MODIFIED="1465459784670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
+    <SUITE FILE_PATH="coverage/LearnPython$lesson5.coverage" NAME="lesson5 Coverage Results" MODIFIED="1467806770871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
     <SUITE FILE_PATH="coverage/LearnPython$lesson2.coverage" NAME="lesson2 Coverage Results" MODIFIED="1466227241392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
     <SUITE FILE_PATH="coverage/LearnPython$poi_name.coverage" NAME="poi_name Coverage Results" MODIFIED="1471400056584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/name" />
-    <SUITE FILE_PATH="coverage/LearnPython$lesson5.coverage" NAME="lesson5 Coverage Results" MODIFIED="1467806770871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
-    <SUITE FILE_PATH="coverage/LearnPython$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1467793475400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
-    <SUITE FILE_PATH="coverage/LearnPython$lesson7.coverage" NAME="lesson7 Coverage Results" MODIFIED="1469351699155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
-    <SUITE FILE_PATH="coverage/LearnPython$mini_spider.coverage" NAME="mini_spider Coverage Results" MODIFIED="1468901151788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gc/spider" />
-    <SUITE FILE_PATH="coverage/LearnPython$check.coverage" NAME="check Coverage Results" MODIFIED="1471048747724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check" />
-    <SUITE FILE_PATH="coverage/LearnPython$db.coverage" NAME="db Coverage Results" MODIFIED="1468747004118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/export" />
-    <SUITE FILE_PATH="coverage/LearnPython$lesson3.coverage" NAME="lesson3 Coverage Results" MODIFIED="1466576277057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
-    <SUITE FILE_PATH="coverage/LearnPython$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1468315463516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnPython$temp.coverage" NAME="temp Coverage Results" MODIFIED="1469889238507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnpython" />
     <SUITE FILE_PATH="coverage/LearnPython$school.coverage" NAME="school Coverage Results" MODIFIED="1469350189902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/csdn" />
+    <SUITE FILE_PATH="coverage/LearnPython$export_firm_name_address.coverage" NAME="export_firm_name_address Coverage Results" MODIFIED="1472452193873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/export" />
+    <SUITE FILE_PATH="coverage/LearnPython$check.coverage" NAME="check Coverage Results" MODIFIED="1473683807929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/check" />
+    <SUITE FILE_PATH="coverage/LearnPython$lesson4.coverage" NAME="lesson4 Coverage Results" MODIFIED="1467793475400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
+    <SUITE FILE_PATH="coverage/LearnPython$svm_test.coverage" NAME="svm_test Coverage Results" MODIFIED="1472616017727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml" />
+    <SUITE FILE_PATH="coverage/LearnPython$logistic_regression_test.coverage" NAME="logistic_regression_test Coverage Results" MODIFIED="1472615928850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml" />
+    <SUITE FILE_PATH="coverage/LearnPython$ch02.coverage" NAME="ch02 Coverage Results" MODIFIED="1473647973368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_analysis/code" />
+    <SUITE FILE_PATH="coverage/LearnPython$db.coverage" NAME="db Coverage Results" MODIFIED="1468747004118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/export" />
+    <SUITE FILE_PATH="coverage/LearnPython$perceptron.coverage" NAME="perceptron Coverage Results" MODIFIED="1472180728397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml" />
+    <SUITE FILE_PATH="coverage/LearnPython$nn.coverage" NAME="nn Coverage Results" MODIFIED="1472623823241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml" />
+    <SUITE FILE_PATH="coverage/LearnPython$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1468315463516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnPython$lesson3.coverage" NAME="lesson3 Coverage Results" MODIFIED="1466576277057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
     <SUITE FILE_PATH="coverage/LearnPython$Employee.coverage" NAME="Employee Coverage Results" MODIFIED="1469408146038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learnpython" />
+    <SUITE FILE_PATH="coverage/LearnPython$lesson7.coverage" NAME="lesson7 Coverage Results" MODIFIED="1469351699155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
+    <SUITE FILE_PATH="coverage/LearnPython$hello.coverage" NAME="hello Coverage Results" MODIFIED="1465459784670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
+    <SUITE FILE_PATH="coverage/LearnPython$lesson6.coverage" NAME="lesson6 Coverage Results" MODIFIED="1468389688962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mooc.python" />
+    <SUITE FILE_PATH="coverage/LearnPython$mini_spider.coverage" NAME="mini_spider Coverage Results" MODIFIED="1468901151788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gc/spider" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -88,71 +71,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mysql_online.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/file/mysql_online.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="poi_name.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/name/poi_name.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
-              <folding>
-                <marker date="1471400056000" expanded="true" signature="412:451" placeholder="select count... npc_poi" />
-                <marker date="1471400056000" expanded="true" signature="609:651" placeholder="select poi_i... npc_poi" />
-                <marker date="1471400056000" expanded="true" signature="609:669" placeholder="select poi_i... npc_poi" />
-                <marker date="1471400056000" expanded="true" signature="609:670" placeholder="select poi_i... npc_poi" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mysql_common.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db/mysql_common.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="order_by_performance.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/orderby/order_by_performance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-                <marker date="1471592032000" expanded="true" signature="700:742" placeholder="select * fro... category" />
-                <marker date="1471592032000" expanded="true" signature="792:975" placeholder="select deal_... " />
-                <marker date="1471592032000" expanded="true" signature="792:1071" placeholder="select deal_... dp_deal_detail_performance_day_v1" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="mysql_dp.conf" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/file/mysql_dp.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="95">
               <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mysql_common.conf" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/file/mysql_common.conf">
+      <file leaf-file-name="performance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/orderby/performance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="532">
+              <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+              <folding>
+                <marker date="1472450612956" expanded="true" signature="514:561" ph="select id,na... category" />
+                <marker date="1472450612956" expanded="true" signature="843:1060" ph="select loadd... dp_deal_detail_performance_day_v1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check/check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearnPython.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/LearnPython.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -173,14 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mooc.python/hello.py" />
-        <option value="$PROJECT_DIR$/mooc.python/lesson2.py" />
-        <option value="$PROJECT_DIR$/mooc.python/lesson3.py" />
-        <option value="$PROJECT_DIR$/mooc.python/lesson4.py" />
-        <option value="$PROJECT_DIR$/mooc.python/lesson5.py" />
-        <option value="$PROJECT_DIR$/mooc.python/http.py" />
-        <option value="$PROJECT_DIR$/read_file.py" />
-        <option value="$PROJECT_DIR$/spider_test/test_webpage_parse.py" />
         <option value="$PROJECT_DIR$/mooc.python/lesson6.py" />
         <option value="$PROJECT_DIR$/arg/arg.py" />
         <option value="$PROJECT_DIR$/gc/spider/urls" />
@@ -212,16 +160,26 @@
         <option value="$PROJECT_DIR$/mooc.python/lesson7.py" />
         <option value="$PROJECT_DIR$/learnpython/Employee.py" />
         <option value="$PROJECT_DIR$/learnpython/temp.py" />
-        <option value="$PROJECT_DIR$/check/check.py" />
         <option value="$PROJECT_DIR$/mysql_common.py" />
-        <option value="$PROJECT_DIR$/file/mysql_online.conf" />
         <option value="$PROJECT_DIR$/spider/mini_spider.py" />
-        <option value="$PROJECT_DIR$/config/mysql_config.py" />
-        <option value="$PROJECT_DIR$/db/mysql_common.py" />
         <option value="$PROJECT_DIR$/name/poi_name.py" />
         <option value="$PROJECT_DIR$/file/mysql_dp.conf" />
         <option value="$PROJECT_DIR$/file/mysql_common.conf" />
         <option value="$PROJECT_DIR$/orderby/order_by_performance.py" />
+        <option value="$PROJECT_DIR$/db/mysql_common.py" />
+        <option value="$PROJECT_DIR$/file/mysql_online.conf" />
+        <option value="$PROJECT_DIR$/config/mysql_config.py" />
+        <option value="$PROJECT_DIR$/export/export_firm_name_address.py" />
+        <option value="$PROJECT_DIR$/data/lr_data" />
+        <option value="$PROJECT_DIR$/ml/logistic_regression_test.py" />
+        <option value="$PROJECT_DIR$/ml/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/ml/svm.py" />
+        <option value="$PROJECT_DIR$/ml/svm_test.py" />
+        <option value="$PROJECT_DIR$/ml/nn.py" />
+        <option value="$PROJECT_DIR$/data_analysis/code/ch02.py" />
+        <option value="$PROJECT_DIR$/data_analysis/code/ch02_movie.py" />
+        <option value="$PROJECT_DIR$/data_analysis/code/ch04.py" />
+        <option value="$PROJECT_DIR$/check/check.py" />
       </list>
     </option>
   </component>
@@ -232,10 +190,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="23" />
-    <option name="width" value="1232" />
-    <option name="height" value="777" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -262,7 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,110 +238,101 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="file" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearnPython" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/work/python/GC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\fun\github\LearnPython\data_analysis\data" />
+      <recent name="D:\fun\github\LearnPython\data" />
+      <recent name="$PROJECT_DIR$/file" />
+      <recent name="$PROJECT_DIR$/mooc.python" />
+      <recent name="$PROJECT_DIR$/gc/spider" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/db" />
       <recent name="$PROJECT_DIR$/gc/conf" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/file" />
-      <recent name="$PROJECT_DIR$/mooc.python" />
-      <recent name="$PROJECT_DIR$/gc/spider" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/weiyong" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.poi_name">
-    <configuration default="false" name="lesson7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.check">
+    <configuration default="false" name="logistic_regression_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mooc.python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mooc.python/lesson7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml/logistic_regression_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="svm_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnpython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnpython/Employee.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml/svm_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="nn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learnpython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ml" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learnpython/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ml/nn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ch02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_analysis/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_analysis/code/ch02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -403,24 +351,6 @@
       <module name="LearnPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check/check.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="poi_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/name" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/name/poi_name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -634,19 +564,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.lesson7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Employee" />
-      <item index="2" class="java.lang.String" itemvalue="Python.temp" />
-      <item index="3" class="java.lang.String" itemvalue="Python.check" />
-      <item index="4" class="java.lang.String" itemvalue="Python.poi_name" />
+      <item index="0" class="java.lang.String" itemvalue="Python.logistic_regression_test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.svm_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.nn" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ch02" />
+      <item index="4" class="java.lang.String" itemvalue="Python.check" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.poi_name" />
-        <item index="1" class="java.lang.String" itemvalue="Python.check" />
-        <item index="2" class="java.lang.String" itemvalue="Python.temp" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Employee" />
-        <item index="4" class="java.lang.String" itemvalue="Python.lesson7" />
+        <item index="0" class="java.lang.String" itemvalue="Python.check" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ch02" />
+        <item index="2" class="java.lang.String" itemvalue="Python.nn" />
+        <item index="3" class="java.lang.String" itemvalue="Python.svm_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.logistic_regression_test" />
       </list>
     </recent_temporary>
   </component>
@@ -675,27 +605,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1232" height="777" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23109244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1786108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.50441015" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5328467" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38213915" sideWeight="0.49524942" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39764202" sideWeight="0.49558985" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24938068" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997923" sideWeight="0.49779493" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40383387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33151582" sideWeight="0.49338478" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14632587" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35332605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -767,11 +697,6 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/check/check.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="python-line">
           <url>file://$PROJECT_DIR$/name/poi_name.py</url>
           <line>16</line>
           <option name="timeStamp" value="57" />
@@ -791,6 +716,71 @@
           <line>27</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/export/export_firm_name_address.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/export/export_firm_name_address.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/export/export_firm_name_address.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/export/export_firm_name_address.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/export/export_firm_name_address.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/ml/logistic_regression_test.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/check/check.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -802,233 +792,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="63" />
+      <option name="time" value="80" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1540371/demo.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1540371/bin/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1540371/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/read_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weiyong/readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gc/spider/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gc/spider/spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2145">
-          <caret line="145" column="39" selection-start-line="145" selection-start-column="39" selection-end-line="145" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gc/spider/mini_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="107" column="16" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csdn/school.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc.python/lesson6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc.python/emma.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc.python/lexicon.dic">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10305">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnpython/Employee.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mooc.python/lesson7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" column="14" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learnpython/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding>
-            <marker date="1469889238000" expanded="true" signature="299:391" placeholder="insert into crm_supply_account_user_rela... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/httplib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="576" column="0" selection-start-line="576" selection-start-column="0" selection-end-line="576" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/-1856293957/__builtin__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="715" column="8" selection-start-line="715" selection-start-column="8" selection-end-line="715" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="534" column="30" selection-start-line="534" selection-start-column="30" selection-end-line="534" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="381" column="32" selection-start-line="381" selection-start-column="32" selection-end-line="381" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arg/arg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1540371/unittest/test_mini_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1540371/bin/mini_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/export/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/url_table.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/spider.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/seedfile_load.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/MySQL_python-1.2.4b5-py2.7-macosx-10.10-intel.egg/MySQLdb/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="82" column="30" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/bsddb/dbshelve.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="261" column="8" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weiyong/spider.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weiyong/mini_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
@@ -1065,135 +833,324 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/check/check.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/config_load.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="63" selection-end-column="73" />
-          <folding>
-            <element signature="e#338#357#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/export/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-          <folding>
-            <marker date="1468747004000" expanded="true" signature="271:313" placeholder="select count... npc_poi_category_rela" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/_compat.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4215">
-          <caret line="281" column="25" selection-start-line="281" selection-start-column="25" selection-end-line="281" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/elasticsearch/serializer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/elasticsearch/client/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2100">
-          <caret line="152" column="28" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/_compat.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/jieba/__init__.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/elasticsearch/serializer.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/elasticsearch/client/__init__.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22425">
           <caret line="1530" column="0" selection-start-line="1530" selection-start-column="0" selection-end-line="1530" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/name/poi_name.py">
+    <entry file="file://$PROJECT_DIR$/file/mysql_common.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <marker date="1471400056000" expanded="true" signature="412:451" placeholder="select count... npc_poi" />
-            <marker date="1471400056000" expanded="true" signature="609:651" placeholder="select poi_i... npc_poi" />
-            <marker date="1471400056000" expanded="true" signature="609:669" placeholder="select poi_i... npc_poi" />
-            <marker date="1471400056000" expanded="true" signature="609:670" placeholder="select poi_i... npc_poi" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/mysql_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/mysql_common.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/orderby/order_by_performance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        <state relative-caret-position="133">
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arg/arg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/perceptron.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
-            <marker date="1471592032000" expanded="true" signature="700:742" placeholder="select * fro... category" />
-            <marker date="1471592032000" expanded="true" signature="792:975" placeholder="select deal_... " />
-            <marker date="1471592032000" expanded="true" signature="792:1071" placeholder="select deal_... dp_deal_detail_performance_day_v1" />
+            <marker date="1472044975062" expanded="true" signature="271:313" ph="select count... npc_poi_category_rela" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file/mysql_online.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="20" />
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/logistic_regression_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+          <folding>
+            <element signature="e#245#264#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23579">
+          <caret line="1241" column="0" selection-start-line="1241" selection-start-column="0" selection-end-line="1241" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="180" column="50" selection-start-line="180" selection-start-column="50" selection-end-line="180" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/svm_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/_distributor_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/scipy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="60" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml/nn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/name/poi_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <marker date="1472450613029" expanded="true" signature="419:458" ph="select count... npc_poi" />
+            <marker date="1472450613029" expanded="true" signature="616:677" ph="select poi_i... npc_poi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analysis/data/usagov_bitly_data2012-03-16-1331923249.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="286" column="0" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/test/test_defaultdict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-762174762/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analysis/data/users.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analysis/code/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databases/mysql_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analysis/code/ch02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-762174762/numpy/core/multiarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7106">
+          <caret line="387" column="30" selection-start-line="387" selection-start-column="30" selection-end-line="387" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="2710" column="8" selection-start-line="2710" selection-start-column="8" selection-end-line="2710" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-762174762/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7999">
+          <caret line="421" column="19" selection-start-line="421" selection-start-column="19" selection-end-line="421" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analysis/code/ch04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_analysis/code/ch02_movie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mysql_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/lr_data">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export/export_firm_name_address.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <marker date="1472452158229" expanded="true" signature="382:410" ph="select count... npc_poi" />
+            <marker date="1472452158229" expanded="true" signature="624:686" ph="select poi_n... npc_poi" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mooc.python/lesson7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/file/mysql_dp.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="95">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file/mysql_common.conf">
+    <entry file="file://$PROJECT_DIR$/orderby/performance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="532">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <marker date="1472450612956" expanded="true" signature="514:561" ph="select id,na... category" />
+            <marker date="1472450612956" expanded="true" signature="843:1060" ph="select loadd... dp_deal_detail_performance_day_v1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/LearnPython.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

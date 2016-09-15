@@ -8,7 +8,7 @@ def performance_pic():
     dp_para_dict = config.get_config("../file/mysql_online.conf")
 
     dp = mysql.MysqlCommon(dp_para_dict['host'], dp_para_dict['port'], dp_para_dict['user'], dp_para_dict['pwd'],
-                           dp_para_dict['db'])
+                           dp_para_dict['databases'])
     while (True):
         category = input("category:")
         sql = "select loaddate,sum(cert_count) from dp_deal_detail_performance_day_v1 where loaddate>=20160801 and loaddate<=20160814 and category_id_2=" + category + " GROUP BY loaddate ORDER BY loaddate asc"
