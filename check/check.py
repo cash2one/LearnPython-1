@@ -7,7 +7,7 @@ def fetch(userid):
     url = "http://crm.nuomi.com/crm/supplierAccount/syncSupplierAccount.json?userId=" + userid
     try:
         response = urllib2.urlopen(url, timeout=crawl_timeout)
-        print response
+        # print response
         # print userid
         # if response is None:
         #     print('open url %s with urlopen but return null' % url)
@@ -32,7 +32,7 @@ def fetch(userid):
 
 
 def main():
-    file = open("C:\\Users\\sunbeansoft\\Downloads\\missid_3")
+    file = open("d:\\261")
     # new_file = open("C:\\Users\\sunbeansoft\\Downloads\\missid_3", 'w')
     sum = 0
     for line in file:
@@ -40,7 +40,7 @@ def main():
         strs = line.split("\n")
         fetch(strs[0])
         sum = sum + 1
-        print sum
+        # print sum
 
 
 if __name__ == "__main__":
